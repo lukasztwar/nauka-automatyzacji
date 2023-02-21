@@ -93,7 +93,7 @@ describe('cały test', () =>{
 
     })
 
-    it.only('checkboxy', () =>{
+    it('checkboxy', () =>{
 
         CBx.visit()
 
